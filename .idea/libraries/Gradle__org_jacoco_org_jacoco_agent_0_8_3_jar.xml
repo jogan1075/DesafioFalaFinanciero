@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jacoco:org.jacoco.agent:0.8.3@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.agent/0.8.3/b2ab9a76ecf256e55046a3b3acc75c4dc406c3b6/org.jacoco.agent-0.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.agent/0.8.3/6a8f7ce3ef878560f561aa72a782dde0b606a79a/org.jacoco.agent-0.8.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jacoco/org.jacoco.agent/0.8.3/fc9e97a1f0b0a228c2d13c3efc6efc389d57b65d/org.jacoco.agent-0.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TecnicalTestFiFJmc</string>
+
+    <string name="titleSplash"> Desafio Tecnico FIF</string>
+    <string name="error_empty">campo vacio</string>
+
+    <string name="value">Value</string>
+    <string name="code">Code</string>
+    <string name="currency">Currency</string>
+    <string name="date">Date</string>
+</resources>
